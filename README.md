@@ -80,7 +80,7 @@ The system uses component-based architecture for better code organization and re
 
 ```bash
 # Clone the repository
-git clone https://github.com/nandhuprojects/SmartApartmentMaintenanceSystem.git
+[git clone https://github.com/nandhuprojects/SmartApartmentMaintenanceSystem.git](https://github.com/nandhuprojects/SmartApartmentMaintenanceSystem.git)
 
 # Navigate to project directory
 cd SmartApartmentMaintenanceSystem
